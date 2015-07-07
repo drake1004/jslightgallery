@@ -9,7 +9,8 @@ and bind styles like this:
 ` <link rel="stylesheet" type="text/css" href="style.css"> `
 ` <link rel="stylesheet"  media="(max-width: 881px)" href="mobile.css"> `
 
-` <!DOCTYPE html>
+``` 
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Light Gallery</title>
@@ -42,4 +43,5 @@ and bind styles like this:
 		</div>
 		<div id="wrapper"></div>
 	</body>
-</html>`
+</html>
+```
